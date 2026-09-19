@@ -2,7 +2,7 @@
 
 -> Today I learned about what Html and Css
 
--> Html stands for Hyper Text MarkUp Language, it is a programming language which uses tags to define elements.
+-> Html stands for Hyper Text MarkUp Language, it is a markup language which uses tags to define elements.
 
 -> Html is the skeleton of the Websites, All websites contains Html code.
 
