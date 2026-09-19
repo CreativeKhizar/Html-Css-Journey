@@ -1,6 +1,6 @@
 [ 19 Sept 2026 ]
 
--> Today I learned about what Html and Css
+-> Today I learned about what Html and Css is.
 
 -> Html stands for Hyper Text MarkUp Language, it is a markup language which uses tags to define elements.
 
