@@ -27,4 +27,4 @@
 
 -> Today I am exploring the Web Developer Extension and Vscode.
 
--> Thankyou for reading
+-> Thankyou for reading.
