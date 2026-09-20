@@ -28,9 +28,11 @@
 
 -> loremn -> here n tells the total number of words after lorem. ( lorem50 -> it generates 50 random words ).
 
--> This is my learning and today i will work on them and try to observe webpages where this tags are used.
+-> In the head tag, there meta tags, that provide information about the webpage.
 
--> Thankyou for reading.
+   -> <meta charset="UTF-8"> normally in programming langagues like c, ASCII is used to represent all the characters
+      but ASCII can only store english characters, what about other langauge characters to solve this problem UTF-8 encoding
+      is introduced and this meta tag tells that we have access to all the characters in the world of any language.
 
 [ 19 Sept 2026 ]
 
