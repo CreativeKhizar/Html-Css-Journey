@@ -1,3 +1,37 @@
+[ 20 Sept 2026 ]
+
+-> Today I learned about Html Structure
+
+-> Html Structure is below like this
+
+      <!DOCTYPE html>   <!-- This tells the browser that the below code is HTML Code -->
+      <html>   <!-- It is the opening tag of html>
+         <head>   <!-- It is the opening tag of head, it stores the meta information and external file links -->
+         </head>  <!-- closing tag of head -->
+         <body>   <!-- It is the opening tag of body, it contains the tags that are rendered by the browser in the webpage -->
+         </body>  <!-- It is the closing tag of body -->
+      </html>  <!-- It is the closing tag of htmll -->
+
+-> Here Everytime entering the structure from scratch becomes a burden when we try to code everyday in html.
+
+-> So, to fix this issue vscode provides a built-in plugin called emmet, we can just use [!+Enter] or [!+Tab] shortcuts.
+
+-> To document our work in html, we can use html comments like this <!-- This is comment -->
+
+-> In the tags, I learned about 
+
+   -> Heading tags (h1,h2,h3,h4,h5,h6) , they decrease in their font-size from h1 ot h6.
+   -> Paragraph tag (p), it is used to write content that is used to read for the users.
+
+-> Sometimes we need bulk dummy data to experiment our code or test our code, for this emmet the built-in plugin 
+   provided by vscode gives lorem ipsum.
+
+-> loremn -> here n tells the total number of words after lorem. ( lorem50 -> it generates 50 random words ).
+
+-> This is my learning and today i will work on them and try to observe webpages where this tags are used.
+
+-> Thankyou for reading.
+
 [ 19 Sept 2026 ]
 
 -> Today I learned about what Html and Css is.
