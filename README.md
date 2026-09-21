@@ -1,3 +1,21 @@
+[ 21 Sept 2026 ]
+
+-> Today I learned about useful extensions that help developers
+
+-> Live Server is an extension in vscode that helps developer to live update the webpage
+   with change in code without the need to refresh the page.
+
+-> Bracket Pair Color is an extension in vscode that helps developers to keep track of 
+   the opening and closing brackets with unique colors without being ambigous. it is really
+   helpful.
+
+-> Prettier is an extension in vscode that formats the code into a neat identation.
+
+-> An Exercise is given for today based on yesterday's learnings i will first create 
+   mapping using pinto in ubuntu and then code for it.
+
+-> Thankyou for reading.
+
 [ 20 Sept 2026 ]
 
 -> Today I learned about Html Structure
