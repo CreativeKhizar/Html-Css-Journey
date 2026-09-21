@@ -12,7 +12,7 @@
 -> Prettier is an extension in vscode that formats the code into a neat identation.
 
 -> An Exercise is given for today based on yesterday's learnings i will first create 
-   mapping using pinto in ubuntu and then code for it.
+   mapping using pinta in ubuntu and then code for it.
 
 -> Thankyou for reading.
 
