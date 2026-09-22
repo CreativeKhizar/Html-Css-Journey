@@ -1,3 +1,76 @@
+[ 22 Sept 2026 ]
+
+-> Today I learned about links, Images, lists and text formatting tags.
+
+-> Links are used to link to redirect from one webpage to another webpage
+
+-> The syntax to create a link is we use anchor tag.
+      <a>Redirect</a>
+   
+-> I learned that anchor tag has 3 attributes with names href, title, target
+
+   <a href="path to redirecting webpage" title="what sholuld be displayed when hover" target="to open redirected webpage in new tab
+   or same tab">Link Name</a>
+
+-> Example : <a href="https://google.co.in" target="_blank" title="Google is the most popular search engine">Google</a>
+
+-> I did an small experiment with the anchor tag.
+
+-> Then I learned about Image tag i.e, <img>
+
+-> Syntax : <img src="path of image" alt="Description of the Image">
+
+-> img tag has two attributes ie., src that tells what image should be displayed in the webpage, alt tells description of the image.
+
+-> alt attribute helps in improving the accessiblity of the image for the eye disability people who uses screen reader.
+
+-> To get free images we can use pexels and unsplash websites.
+
+-> Then, I learned about lists and they are used to list a group of items
+
+-> Lists of three types
+
+   -> Ordered Lists
+   -> Unordered Lists
+   -> Description Lists
+
+-> Ordered Lists are the type of lists that has some sort of numbering in the form of 1,a,A,i.
+
+   Syntax:-
+
+         <ol type="1">  <!-- Here type we can enter 1, i, I, A, a by default 1 is taken>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+         </ol>
+      
+-> UnOrdered Lists are the type of lists that has no numbering but has just symbols
+
+   Syntax :-
+
+         <ul style="list-style-type="none">  <!-- we cannot type attribute we should use style attribute here we are applying inline css, we can use circle, none ,etc... -->
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+         </ul>
+
+-> Description Lists are the type of lists that has both title and description
+
+   Syntax :-
+
+         <dl>
+            <dt>Guitar</dt>
+            <dd>Guitar is a 6 String musical Instrument</dd>
+
+            <dt>Ukulele</dt>
+            <dd>Ukulele is a 4 String musical Instrument</dd>
+         <dl>
+
+-> I also learned about text formatting html tags like <strong>,<em>,<mark>,<sub>,<sup>
+
+-> Thankyou for reading.
+
+
 [ 21 Sept 2026 ]
 
 -> Today I learned about useful extensions that help developers
