@@ -1,3 +1,33 @@
+[ 23 Sept 2026 ]
+
+-> Today I learned about table tag. 
+
+-> table tag is used to create Table in Html.
+
+-> Just like how a webpage has header, body and footer similarly table has three sections
+      
+      -> thead ( It tells the name of the columns )
+
+      -> tbody ( It tells about the data present in the table like column data )
+
+      -> tfooter ( just the webpage footer it tells about assurance like why we can trust the above data. )
+   
+-> There is table attribute like border="n", here n represents the size of border of the table.
+
+-> By default the border is invisible for the table you can use border attribute to give
+   border to the table.
+
+-> There are other attributes of table like rowspan and colspan.
+
+-> Sometimes we need two or more rows or columns combined together to display our data
+   at this time we use rowspan and colspan.
+
+-> rowspan is used to merge two or more rows of same column.
+
+-> colspan is used to merge two or more columns of same row.
+
+-> Thankyou for reading.
+
 [ 22 Sept 2026 ]
 
 -> Today I learned about links, Images, lists and text formatting tags.
