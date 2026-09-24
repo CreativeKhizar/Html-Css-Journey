@@ -1,3 +1,68 @@
+[ 24 Sept 2026 ]
+
+-> Today I learned about form tag.
+
+-> Form Tag is used to display registration form to the users.
+
+-> From Form Tag we can collect the data from the user and use it in javascript for 
+   any functionality or send the collected data for the backend for storing in the database
+   or performing any operation on it.
+
+-> form tag has two attribute i.e., action and method.
+
+-> action attribute in form tells about the page where the form data is being 
+   transfered and if there is a page when we will click on the submit button then 
+   the page will be redirected to the action attribute page or api.
+
+-> method attribute tells what http verb is used for the transferring of data.
+
+-> http protocol is used for communication over the internet.
+
+-> There are 4 types of http verbs :-
+
+   -> GET ( here data is passed in url in the form of query string )
+
+   -> POST ( here data is passed in the header body )
+
+   -> PUT
+   
+   -> PATCH
+
+   -> DELETE
+
+-> Normally in form we use two tags
+
+-> label and input tags
+
+-> label tag is used to describe about the data that should be entered into the input tag
+
+-> label tag has for attribute that is used to bind the input tag with keeping for attribute
+   value as id for the input tag.
+
+-> there are multiple input type attribute values like below
+
+      -> text 
+      -> password
+      -> email
+      -> radio
+      -> checkbox
+      -> file
+      -> color
+      -> date
+      -> text area
+
+-> There is another tag i.e., drop down list 
+      
+      <select name="" id="">
+         <option value="value1">value1</option>
+         <option value="value2">value2</option>
+         <option value="value3">value3</option>
+      </select>
+
+-> An Example Program is displayed in the directory 24-09-2026.
+
+-> Thankyou for reading.
+
 [ 23 Sept 2026 ]
 
 -> Today I learned about table tag. 
