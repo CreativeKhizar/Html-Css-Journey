@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms Illustration</title>
+</head>
+<body>
+    <h1>HTML forms</h1>
+    <form action="thankyou.html" method="GET">
+        <label for="firstname">First Name : </label>
+        <input type="text" id="firstname" name="firstname" placeholder="Enter FirstName Here" required/>
+        <br><br>
+        <label for="lastname">Last Name : </label>
+        <input type="text" id="lastname" name="lastname" placeholder="Enter LastName Here" required/>
+        <br><br>
+        <label for="email">Email : </label>
+        <input type="email" id="email" name="email" placeholder="Enter Email Here" required/>
+        <br><br>
+        <label for="password">Password : </label>
+        <input type="password" id="password" name="password" placeholder="Enter Password Here" required/>
+        <br><br>
+        <label for="color">Pick a Color : </label>
+        <input type="color" id="color" name="color" placeholder="Enter Color Here" required/>
+        <br><br>
+        <label for="file">Upload a File : </label>
+        <input type="file" id="file" name="file" required/>
+        <br><br>
+        <label for="date">Enter your Date of Birth : </label>
+        <input type="date" id="date" name="date" placeholder="Enter Date of Birth Here" required/>
+        <br><br>
+        <label for="age-group">Enter your Age group here : </label>
+        <select id="age-group" name="group-age" required>
+            <option value="1 to 10">1 to 10</option>
+            <option value="11 to 20">11 to 20</option>
+            <option value="21 to 50">21 to 50</option>
+            <option value="50+">50+</option>
+        </select>
+        <br><br>
+        <label for="address">Address : </label>
+        <input type="textarea" id="address" rows="10" cols="30" placeholder="Type Here" required/>
+        <br><br>
+        <input type="submit" value="Sign In"/>
+    </form>
+</body>
+</html>
